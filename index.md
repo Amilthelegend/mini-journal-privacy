@@ -148,7 +148,7 @@ This extension complies with:
 
 If you have questions about this privacy policy or your data:
 - **Extension Name:** Mini Journal - Quick Daily Notes
-- **Chrome Web Store:** 
+- **Chrome Web Store:** https://chromewebstore.google.com/detail/heaohcgeeopmdeilefamfhbbfpdilgbk?utm_source=item-share-cb
 - **Support:** eftekaramil@gmail.com
 
 ## Summary
